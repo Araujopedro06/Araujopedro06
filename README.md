@@ -14,7 +14,10 @@
 - 🔭 Trabalhando e evoluindo com **C#, React, Angular, Java e PostgreSQL**
 - 🌱 Sempre aprendendo e me aprimorando na área de tecnologia
 - 👯 Aberto a colaborar em projetos práticos
-- 📫 Como me encontrar: adicione aqui seu LinkedIn / portfólio
+- 📫 Como me encontrar:
+  <a href="https://www.linkedin.com/in/pedro-henrique-araújo-ads" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
 ### 🛠️ Tecnologias & Ferramentas
 
